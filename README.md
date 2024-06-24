@@ -9,3 +9,4 @@ I was responsible for designing and then conducting the front-end development fo
 #### Please Note:
 The code used for the landing page is proprietary to the company so I can't reveal the code itself, but a demo of the landing page is available for viewers to see what it looked like. 
 
+Link to video of the landing page: https://vimeo.com/966861130
